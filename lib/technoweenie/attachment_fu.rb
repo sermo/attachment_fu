@@ -294,9 +294,10 @@ module Technoweenie # :nodoc:
             :content_type             => content_type,
             :filename                 => thumbnail_name_for(file_name_suffix),
             :thumbnail_resize_options => size
-          }
+          })
           run_callbacks(:thumbnail_saved, thumb) do
-          thumb.save!
+            thumb.save!
+          end
         end
       end
 
