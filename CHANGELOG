@@ -1,3 +1,6 @@
+* Mar 30 2011 *
+* attachment_fu.rb updated attachment_fu.rb to work with Rails 3 callbacks [Josh Ladieu]
+
 * Apr 17 2008 *
 * amazon_s3.yml is now passed through ERB before being passed to AWS::S3 [François Beausoleil]
 
