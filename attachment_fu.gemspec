@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name          = 'attachment_fu'
-  s.version       = '1.0.0.sermo'
+  s.version       = '1.0.1.sermo'
   s.summary       = "Sermo fork of attachment_fu"
   s.description   = "Sermo fork of attachment_fu"
   s.authors       = ["technoweenie"]

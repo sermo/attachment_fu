@@ -4,6 +4,7 @@ but since merged with the GitHub repository on July 16, 2012. Modifications made
 - Removed deprecations
 - Remove init.rb and initialize as a Rails Engine
 - Add gemspec
+- Fixed the issue described here: https://github.com/technoweenie/attachment_fu/issues/25
 
 attachment-fu
 =============
